@@ -1,0 +1,11 @@
+.Footer-container{
+    background: black;
+    height:20vh;
+    width:100%;
+    
+}
+small{
+    color: white;
+    padding-left: 550px;
+    font-size: 20px;
+}

@@ -1,0 +1,99 @@
+.home-container{
+    width: 100%;
+    height:150vh;
+    background-color: rgba(100, 148, 237, 0.123);
+    background-image: url(../Assets/bcpic.jpg);
+     background-attachment: fixed; 
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.home_page h1{
+   font-size: 50px;
+   text-align: center;
+}
+.qoute_div{
+    width: 30%;
+    height:60vh;
+    font-size: 15px;
+     font-weight: 300; 
+    margin-left: 100px;
+    background-color: rgba(95, 158, 160, 0.411);
+    float: right;
+    margin-right: 20px;
+    text-align: center;
+    border-radius: 10px;
+
+   
+}
+.qoute_div button{
+    margin-top: 180px;
+    width:50%;
+    height: 7vh;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: rgba(0, 255, 255, 0.37);
+    
+}
+.tour-container{
+    width: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.Tourview{
+   
+    width:40%;
+    height:30vh;
+    background-color: rgba(100, 148, 237, 0.363);
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flex;
+    border: 3px dotted blue;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+  .tourimage img{ 
+    
+    width: 200px;
+     height: 190px; 
+     background: whitesmoke; 
+     overflow: hidden;  
+} 
+.tourview-text{
+    
+    padding-left: 20px;
+     background:rgba(0, 174, 255, 0.582);
+    font-weight: 700;
+}
+
+.CreateAccount1{
+    width:40%;
+    height:80vh;
+    background-color: rgba(95, 158, 160, 0.527);
+    margin: auto;
+    font-size: 20px;
+     /* padding: 40px; */
+    
+}
+.CreateAccount1 label{
+    font-size: 20px; 
+    padding-left: 10px;
+    margin-left: 40px;
+}
+
+.CreateAccount1 button{
+margin-left: 200px;
+width:40%;
+height:40px;
+border-radius: 10px;
+border-color: cadetblue;
+}
+.CreateAccount1 input{
+    margin-left: 20px;
+   float:right;
+}
+.CreateAccount1 h2{
+    margin-left:50px;
+}

@@ -1,0 +1,43 @@
+[
+    {
+      "title": " Nyungwe Park",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 50,
+      "available": 20,
+      "images": ["https://images.pexels.com/photos/3551498/pexels-photo-3551498.jpeg?cs=srgb&dl=pexels-aenic-visuals-3551498.jpg&fm=jpg", ""],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2022",
+      "phone": "+250 788 788 788"
+    },
+  
+    {
+      "title": " Muhazi Lac",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 50,
+      "available": 20,
+      "images": ["https://images.pexels.com/photos/3876446/pexels-photo-3876446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", ""],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2022",
+      "phone": "+250 788 788 788"
+    },
+    {
+      "title": " Gako Forest",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 80,
+      "available": 30,
+      "images": ["https://images.pexels.com/photos/567540/pexels-photo-567540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", ""],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2022",
+      "phone": "+250 788 788 788"
+    },
+    {
+      "title": " Akagera National Park",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 40,
+      "available": 20,
+      "images": ["https://images.pexels.com/photos/3493730/pexels-photo-3493730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", ""],
+      "dateScheduled": "10 August 2022",
+      "dueDate": "15 August 2010",
+      "phone": "+250 788 788 788"
+    }
+  ]
